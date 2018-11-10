@@ -1,0 +1,14 @@
+/Users/allan/sdg/C-sharp/Round3/bin/Debug/netcoreapp2.1/Round3.deps.json
+/Users/allan/sdg/C-sharp/Round3/bin/Debug/netcoreapp2.1/Round3.runtimeconfig.json
+/Users/allan/sdg/C-sharp/Round3/bin/Debug/netcoreapp2.1/Round3.runtimeconfig.dev.json
+/Users/allan/sdg/C-sharp/Round3/bin/Debug/netcoreapp2.1/Round3.dll
+/Users/allan/sdg/C-sharp/Round3/bin/Debug/netcoreapp2.1/Round3.pdb
+/Users/allan/sdg/C-sharp/Round3/obj/Debug/netcoreapp2.1/Round3.csprojAssemblyReference.cache
+/Users/allan/sdg/C-sharp/Round3/obj/Debug/netcoreapp2.1/Round3.csproj.CoreCompileInputs.cache
+/Users/allan/sdg/C-sharp/Round3/obj/Debug/netcoreapp2.1/Round3.RazorAssemblyInfo.cache
+/Users/allan/sdg/C-sharp/Round3/obj/Debug/netcoreapp2.1/Round3.RazorAssemblyInfo.cs
+/Users/allan/sdg/C-sharp/Round3/obj/Debug/netcoreapp2.1/Round3.AssemblyInfoInputs.cache
+/Users/allan/sdg/C-sharp/Round3/obj/Debug/netcoreapp2.1/Round3.AssemblyInfo.cs
+/Users/allan/sdg/C-sharp/Round3/obj/Debug/netcoreapp2.1/Round3.RazorTargetAssemblyInfo.cache
+/Users/allan/sdg/C-sharp/Round3/obj/Debug/netcoreapp2.1/Round3.dll
+/Users/allan/sdg/C-sharp/Round3/obj/Debug/netcoreapp2.1/Round3.pdb
